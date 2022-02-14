@@ -59,8 +59,12 @@ function ternarySearch (start, end, key, array) {
     }
     return -1 // key was not found
 }
+// end of ternary Search
 
 console.log("\n") 
+
+
+// Testing on data
 
 // when the array is unsorted
 let array = randomArrayGenerator(750000)
