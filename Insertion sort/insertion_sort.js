@@ -1,4 +1,3 @@
-// NAME: BRAI DANIEL OSHOKE, MATRIC NUMBER: 214868, COURSE CODE: CSC 236, DEPARTMENT: COMPUTER SCIENCE
 // NOTE: Node JS must be installed on your system before this file can be executed
 console.log("\n")
 
