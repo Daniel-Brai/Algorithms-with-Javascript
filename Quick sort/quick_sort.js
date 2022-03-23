@@ -1,8 +1,9 @@
-// NAME: BRAI DANIEL OSHOKE, MATRIC NUMBER: 214868, COURSE CODE: CSC 236, DEPARTMENT: COMPUTER SCIENCE
 // NOTE: Node JS must be installed on your system before this file can be executed
 console.log("\n")
 
 var arr = [];
+
+// You can input the number of elements you want in an array below
 
 let arrLength = 100000;
 
